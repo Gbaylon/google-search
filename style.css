@@ -1,4 +1,6 @@
 form {
+	padding: 5px 0 0 0;
+
 }
 
 nav {
@@ -15,25 +17,45 @@ li {
 }
 
 input {
-	height: 40px;
+	margin: auto;
+	width: 1000px;
 	box-sizing: border-box;
 	text-align: left;
-	font-size: 12px;
-	padding-left: 10px;
+	font-size: 17px;
+	padding: 10px;
+	vertical-align: top;
 	border: 1px solid #DCDCDC;
-	border-radius: 2px;
-	box-shadow: 0px 1px 1px #DCDCDC;
+  	border-top-left-radius: 2px;
+  	border-bottom-left-radius: 2px;
+  	border-top-right-radius: 0;
+  	border-bottom-right-radius: 0;
+  	border-right: none;
 
 } 
 
 input[type=text]{
-	width: 420px;
+	width: 40%;
 	background-color: white;
 	background-image: url("https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052018/untitled-1_63.png?VaW1bs_mipmverkoNocEJNL6BKTHYW.R&itok=ThO1Yh_H");
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
-	background-position: 350px 5px;
+	background-position: 370px;
 
+}
+
+button[type=submit]{
+	width: 5%;
+  	padding: 10px;
+  	background: white;
+  	color: #1D7CFF;
+  	font-size: 17px;
+	border: 1px solid #DCDCDC;
+  	border-top-left-radius: 0;
+  	border-bottom-left-radius:0;
+  	border-top-right-radius: 2px;
+  	border-bottom-right-radius: 2px;
+  	border-left: none;
+}
 
 .icon {
 	float:right;
