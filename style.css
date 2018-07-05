@@ -79,6 +79,11 @@ button[type=submit]{
 
 }
 
+main {
+	margin-left: 150px;
+	padding-left: 20px;
+}
+
 footer {
 	position: fixed;
     bottom: 0;
