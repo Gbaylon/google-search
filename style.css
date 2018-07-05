@@ -39,7 +39,6 @@ a {
 }
 
 ul {
-	list-style-type: none;
 	padding-left: 140px;
 	padding-top: 10px;
 }
@@ -82,7 +81,13 @@ button[type=submit]{
 main {
 	margin-left: 150px;
 	padding-left: 20px;
-	max-width: 640px;
+	max-width: 630px;
+}
+
+h3 {
+	color: #000000;
+	font-family: Arial;
+	font-size: 16px;
 }
 
 footer {
@@ -122,6 +127,33 @@ footer {
 	padding-left: 510px;
 }
 
+.links {
+	color: #1833CA;
+	font-size: 18px;
+}
+
+.firstresult {
+	font-family: Arial;
+	border: 1px solid #DCDCDC;
+	border-radius: 2px;
+	padding-left: 20px;
+}
+
+.firstresult li {
+	display: list-item;
+	list-style-position: inside;
+	color: #000000;
+	padding: 2px;	
+}
+
+.firstresult ul {
+	padding: 0;
+}
+
+.firstresult p {
+	color: #2F7A1E;
+	font-size: 15px;
+}
 
 
 
