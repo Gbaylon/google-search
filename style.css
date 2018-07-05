@@ -1,7 +1,7 @@
 header {
 	background: #F6F6F6;
 	border-bottom: .1px solid #DCDCDC;
-	height: 120px;
+	height: 130px;
 
 }
 
@@ -36,6 +36,7 @@ nav {
 ul {
 	list-style-type: none;
 	padding-left: 140px;
+	padding-top: 10px;
 }
 
 li {
@@ -94,7 +95,7 @@ footer {
 .icon {
 	position: absolute;
 	color: #696969;
-	top: 20px;
+	top: 10px;
     right: 16px;
     padding: 0;
 }
@@ -109,7 +110,7 @@ footer {
 }
 
 .nav2 {
-	margin-top: -27px;
+	margin-top: -38px;
 	padding-left: 510px;
 }
 
