@@ -17,6 +17,7 @@ form {
 	height: 50px;
 	box-shadow: 0 2px 1px #a9a8a8;
 	background: white;
+	padding-left: 0px;
 
 }
 
@@ -64,4 +65,5 @@ button[type=submit]{
 .icon {
 	float:right;
 	top: 0;
+	color: #696969;
 }
