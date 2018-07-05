@@ -80,7 +80,6 @@ button[type=submit]{
 
 main {
 	margin-left: 150px;
-	padding-left: 20px;
 	max-width: 630px;
 }
 
@@ -143,6 +142,7 @@ footer {
 	border-radius: 2px;
 	box-shadow: 0 2px 1px #DCDCDC;
 	padding-left: 20px;
+	display: block;
 }
 
 .firstresult li {
@@ -167,5 +167,9 @@ footer {
 	font-weight: bold;
 }
 
-
-
+.results {
+	font-size: 13px;
+	font-family: Arial;
+	padding: 20px;
+	display: block;
+}
