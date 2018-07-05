@@ -13,7 +13,7 @@ body {
 form {
 	border: 1px solid #DCDCDC;
 	border-radius: 2px;
-	width: 500px;
+	width: 600px;
 	height: 50px;
 	box-shadow: 0 2px 1px #a9a8a8;
 	background: white;
@@ -21,16 +21,24 @@ form {
 }
 
 nav {
+	font-family: Arial;
+   	font-size: 13px;
+   	color: #696969;
+
 }
 
 ul {
 	list-style-type: none;
-	padding-left: 175px;
+	padding-left: 150px;
 }
 
 li {
 	display: inline;
-	padding: 5px;
+	padding: 15px;
+}
+
+li a {
+	text-decoration: none;
 }
 
 input {
@@ -50,7 +58,7 @@ input[type=text]{
 	background-image: url("https://botw-pd.s3.amazonaws.com/styles/logo-thumbnail/s3/052018/untitled-1_63.png?VaW1bs_mipmverkoNocEJNL6BKTHYW.R&itok=ThO1Yh_H");
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
-	background-position: 420px;
+	background-position: 500px;
 
 }
 
@@ -58,7 +66,7 @@ button[type=submit]{
   	background: white;
   	color: #1D7CFF;
   	font-size: 17px;
-  	border:none;
+  	border: none;
 	
 }
 
@@ -83,4 +91,21 @@ footer {
 	color: #696969;
 	top: 20px;
     right: 16px;
-	}
+    padding: 0;
+}
+
+.active {
+	background-color: none;
+	color: #1D7CFF;
+	font-weight: bold;
+	border-bottom: 3px solid #1D7CFF;
+	padding: 15px;
+	padding-bottom: 18px;
+}
+
+
+
+
+
+
+
