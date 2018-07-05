@@ -2,11 +2,11 @@ header {
 	background: #F6F6F6;
 	border-bottom: .1px solid #DCDCDC;
 	height: 120px;
+	postion: absolute;
 
 }
 
 img {
-	display: block;
 	padding-left: 15px;
 	padding-top: 30px;
 }
@@ -24,6 +24,7 @@ form {
 	box-shadow: 0 2px 1px #a9a8a8;
 	background: white;
 	margin-left: 150px;
+	margin-top: -58px;
 }
 
 nav {
@@ -66,6 +67,7 @@ input[type=text]{
 	background-size: 25px 25px;
 	background-position: 500px;
 
+
 }
 
 button[type=submit]{
@@ -73,7 +75,7 @@ button[type=submit]{
   	color: #1D7CFF;
   	font-size: 17px;
   	border: none;
-	
+
 }
 
 footer {
