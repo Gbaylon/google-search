@@ -80,7 +80,7 @@ button[type=submit]{
 
 main {
 	margin-left: 150px;
-	max-width: 630px;
+	max-width: 640px;
 }
 
 h3 {
@@ -104,14 +104,6 @@ footer {
     font-size: 13px;
 }
 
-.icon {
-	position: absolute;
-	color: #696969;
-	top: 10px;
-    right: 16px;
-    padding: 0;
-}
-
 .active {
 	background-color: none;
 	color: #1D7CFF;
@@ -121,19 +113,8 @@ footer {
 	padding-bottom: 18px;
 }
 
-.nav2 {
-	margin-top: -38px;
-	padding-left: 510px;
-}
-
-.moreitems {
-	font-size: 15px;
-	padding-left: 25px;
-}
-
-.links {
-	color: #1833CA;
-	font-size: 18px;
+.bold {
+	font-weight: bold;
 }
 
 .firstresult {
@@ -163,8 +144,27 @@ footer {
 	margin-bottom: 20px;
 }
 
-.bold {
-	font-weight: bold;
+.icon {
+	position: absolute;
+	color: #696969;
+	top: 10px;
+    right: 16px;
+    padding: 0;
+}
+
+.links {
+	color: #1833CA;
+	font-size: 18px;
+}
+
+.moreitems {
+	font-size: 15px;
+	padding-left: 25px;
+}
+
+.nav2 {
+	margin-top: -38px;
+	padding-left: 510px;
 }
 
 .results {
