@@ -18,7 +18,6 @@ form {
 	box-shadow: 0 2px 1px #a9a8a8;
 	background: white;
 	margin-left: 150px;
-
 }
 
 nav {
@@ -79,6 +78,8 @@ footer {
 }
 
 .icon {
-	float:right;
+	position: absolute;
 	color: #696969;
+	top: 20px;
+    right: 16px;
 	}
