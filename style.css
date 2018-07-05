@@ -1,9 +1,22 @@
+header {
+	background: #F6F6F6;
+	border-bottom: .1px solid #DCDCDC;
+	height: 120px;
+
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
 form {
 	border: 1px solid #DCDCDC;
 	border-radius: 2px;
 	width: 500px;
 	height: 50px;
 	box-shadow: 0 2px 1px #a9a8a8;
+	background: white;
 
 }
 
@@ -50,4 +63,5 @@ button[type=submit]{
 
 .icon {
 	float:right;
+	top: 0;
 }
