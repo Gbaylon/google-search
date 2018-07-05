@@ -62,8 +62,21 @@ button[type=submit]{
 	
 }
 
+footer {
+	position: fixed;
+   	bottom: 0;
+   	width: 100%;
+   	left: 0;
+   	height: 15px;   
+   	background: #F0F0F0;
+   	padding-top: 0;
+   	padding-bottom: 30px;
+   	color: #696969;
+   	border-top: .1px solid #DCDCDC;
+
+}
+
 .icon {
 	float:right;
-	top: 0;
 	color: #696969;
-}
+	}
