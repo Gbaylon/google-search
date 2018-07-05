@@ -141,6 +141,7 @@ footer {
 	font-family: Arial;
 	border: 1px solid #DCDCDC;
 	border-radius: 2px;
+	box-shadow: 0 2px 1px #DCDCDC;
 	padding-left: 20px;
 }
 
