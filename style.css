@@ -82,6 +82,7 @@ button[type=submit]{
 main {
 	margin-left: 150px;
 	padding-left: 20px;
+	max-width: 640px;
 }
 
 footer {
