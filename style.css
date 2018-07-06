@@ -113,6 +113,11 @@ footer {
 	padding-bottom: 18px;
 }
 
+.all-results {
+	display: block;
+	padding-left: 20px;
+}
+
 .all-results h4 { 
 	color: #2F7A1E;
 	font-size: 15px;
@@ -140,7 +145,7 @@ footer {
 	font-weight: normal;
 	margin: 0px;
 	line-height: 1.6;
-	padding-bottom: 15px;
+	padding-bottom: 10px;
 	letter-spacing: .02px;
 	color: #696969;
 
@@ -204,6 +209,7 @@ footer {
 	font-size: 15px;
 	margin-top: 0px;
 	margin-bottom: 20px;
+	padding-top: 7px;
 }
 
 .icon {
@@ -218,7 +224,7 @@ footer {
 	color: #1833CA;
 	font-size: 18px;
 	font-family: Arial;
-	padding-top: 15px;
+	padding-top: 20px;
 	display: block;
 	line-height: 30%;
 }
@@ -226,6 +232,7 @@ footer {
 .moreitems {
 	font-size: 15px;
 	padding-left: 25px;
+	padding-bottom: 20px;
 }
 
 .nav2 {
