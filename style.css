@@ -81,22 +81,22 @@ button[type=submit]{
 main {
 	margin-left: 150px;
 	max-width: 640px;
+	overflow: auto;
 }
 
-h3 {
+h4 {
 	color: #000000;
 	font-family: Arial;
-	font-size: 16px;
 }
 
 footer {
-	position: fixed;
+	position: relative;
     bottom: 0;
     width: 100%;
     left: 0;
-    /* height: 50px; */
+    height: 55px; 
     background: #F0F0F0;
-    padding-top: 20px;
+    padding-top: 10px;
     /* padding-bottom: 10px; */
     color: #696969;
     border-top: .1px solid #DCDCDC;
@@ -112,6 +112,12 @@ footer {
 	padding: 15px;
 	padding-bottom: 18px;
 }
+
+.all-results h4 { 
+	color: #2F7A1E;
+	font-size: 15px;
+}
+
 
 .bold {
 	font-weight: bold;
@@ -175,6 +181,9 @@ footer {
 .links {
 	color: #1833CA;
 	font-size: 18px;
+	font-family: Arial;
+	padding-top: 20px;
+	display: block;
 }
 
 .moreitems {
