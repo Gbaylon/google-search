@@ -67,6 +67,7 @@ input[type=text]{
 	background-repeat: no-repeat;
 	background-size: 25px 25px;
 	background-position: 540px;
+	padding-left: 0px;
 
 }
 
@@ -220,6 +221,7 @@ footer {
 	margin-bottom: 20px;
 	padding-top: 7px;
 	padding-left: 0px;
+
 }
 
 .icon {
@@ -256,3 +258,17 @@ footer {
 	padding: 20px;
 	display: block;
 }
+
+.related-search {
+	font-size: 18px;
+	font-family: Arial;
+	letter-spacing: .02px;
+	padding-left: 20px;
+	padding-top: 35px;
+	padding-bottom: 30px;
+	display: block;
+}
+
+
+
+
