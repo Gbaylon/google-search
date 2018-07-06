@@ -232,27 +232,30 @@ footer {
 }
 
 .gtable1 {
-	padding-left: 200px;
+	padding-left: 125px;
 	padding-bottom: 0px;
 	padding-top: 50px;
 	font-size: 30px;
 	font-family: "Century Gothic";
-	letter-spacing: .05px;
+	letter-spacing: 1px;
 }
 
 
 
 .gtable2 {
-	padding-left: 212px;
+	padding-left: 143px;
 	padding-top: 0px;
+	padding-bottom: 20px;
 	color: #1D7CFF;
 	font-family: Arial;
+	font-size: 14px;
 
 }
 
 .gtable2 th {
-	padding: 6.5px;
+	padding: 7px;
 	font-weight: normal;
+	font-size: 13px;
 
 }
 
