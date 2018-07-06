@@ -2,7 +2,9 @@ header {
 	background: #F6F6F6;
 	border-bottom: .1px solid #DCDCDC;
 	height: 130px;
-
+	position: absolute;
+	left: 0;
+	width: 100%;
 }
 
 img {
@@ -83,6 +85,7 @@ main {
 	margin-left: 150px;
 	max-width: 640px;
 	overflow: auto;
+	padding-top: 130px;
 }
 
 h4 {
@@ -290,6 +293,10 @@ footer {
 
 }
 
+.material-icons {
+
+}
+
 .moreitems {
 	font-size: 15px;
 	padding-left: 25px;
@@ -341,4 +348,8 @@ footer {
 
 #e {
 	color: #F12A2A;
+}
+
+#icon1 {
+	position: absolute;
 }
