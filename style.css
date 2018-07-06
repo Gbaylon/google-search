@@ -119,11 +119,18 @@ footer {
 	font-weight: normal;
 	margin: 0px;
 	padding-bottom: 3px;
+	letter-spacing: .02px;
+
 }
 
 .all-results i {
 	font-size: 22px;
 	padding-bottom: 0px;
+	position: relative;
+  /* Adjust these values accordingly */
+  	top: 5px;
+  	left: 5px;
+
 }
 
 .all-results p {
