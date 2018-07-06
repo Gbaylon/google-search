@@ -89,6 +89,14 @@ h4 {
 	font-family: Arial;
 }
 
+p {
+	font-size: 18px;
+	font-family: Arial;
+	letter-spacing: .02px;
+	padding-left: 20px;
+
+}
+
 footer {
 	position: relative;
     bottom: 0;
@@ -148,6 +156,7 @@ footer {
 	padding-bottom: 10px;
 	letter-spacing: .02px;
 	color: #696969;
+	padding-left: 0px;
 
 }
 
@@ -210,6 +219,7 @@ footer {
 	margin-top: 0px;
 	margin-bottom: 20px;
 	padding-top: 7px;
+	padding-left: 0px;
 }
 
 .icon {
