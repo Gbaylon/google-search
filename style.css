@@ -116,8 +116,19 @@ footer {
 .all-results h4 { 
 	color: #2F7A1E;
 	font-size: 15px;
+	font-weight: normal;
+	margin: 0px;
+	padding-bottom: 3px;
 }
 
+.all-results p {
+	font-size: 12px;
+	font-family: Arial;
+	font-weight: normal;
+	margin: 0px;
+	line-height: 1.6;
+
+}
 
 .bold {
 	font-weight: bold;
