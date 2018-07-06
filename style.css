@@ -104,12 +104,6 @@ table {
 	text-align: left;
 }
 
-th {
-	padding-right: 30px;
-	font-weight: normal;
-	font-family: Arial;
-	font-size: 13px;
-}
 
 footer {
 	position: relative;
@@ -252,6 +246,14 @@ footer {
 	padding-top: 20px;
 	display: block;
 	line-height: 30%;
+}
+
+.links2 {
+	padding-right: 30px;
+	font-weight: bold;
+	font-family: Arial;
+	font-size: 14px;
+	color: #050AC1;
 }
 
 .moreitems {
