@@ -99,7 +99,6 @@ p {
 }
 
 table {
-	padding-bottom: 50px;
 	padding-left: 20px;
 	text-align: left;
 }
@@ -118,6 +117,7 @@ footer {
     border-top: .1px solid #DCDCDC;
     font-family: Arial;
     font-size: 13px;
+    padding-left: 20px;
 }
 
 .active {
@@ -231,12 +231,34 @@ footer {
 
 }
 
+.gtable1 {
+	padding-left: 200px;
+	padding-bottom: 0px;
+	padding-top: 50px;
+	font-size: 30px;
+	font-family: "Century Gothic";
+	letter-spacing: .05px;
+}
+
+
+
+.gtable2 {
+	padding-left: 212px;
+	padding-top: 0px;
+}
+
+.gtable2 th {
+	padding: 7px;
+
+}
+
 .icon {
 	position: absolute;
 	color: #696969;
 	top: 10px;
     right: 16px;
     padding: 0;
+    float: right;
 }
 
 .links {
@@ -280,10 +302,13 @@ footer {
 	letter-spacing: .02px;
 	padding-left: 20px;
 	padding-top: 35px;
-	padding-bottom: 30px;
+	padding-bottom: 20px;
 	display: block;
 }
 
+.gtable1 i {
+	color: #1D7CFF;
+}
 
 
 
