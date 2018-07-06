@@ -120,6 +120,7 @@ footer {
 	margin: 0px;
 	padding-bottom: 3px;
 	letter-spacing: .02px;
+	line-height: 1px;
 
 }
 
@@ -219,6 +220,7 @@ footer {
 	font-family: Arial;
 	padding-top: 15px;
 	display: block;
+	line-height: 30%;
 }
 
 .moreitems {
