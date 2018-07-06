@@ -121,6 +121,11 @@ footer {
 	padding-bottom: 3px;
 }
 
+.all-results i {
+	font-size: 22px;
+	padding-bottom: 0px;
+}
+
 .all-results p {
 	font-size: 12px;
 	font-family: Arial;
@@ -132,6 +137,12 @@ footer {
 
 .bold {
 	font-weight: bold;
+}
+
+.date {
+	color: #696969;
+	font-size: 13px;
+
 }
 
 .feedback {
